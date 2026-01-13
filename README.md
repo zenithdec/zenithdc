@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, me chamo Luis Filipe
+# 😎 Olá, me chamo Luis Filipe
 
 ### Desenvolvedor de Software
 **Java | Kotlin | Lua | SQL | MongoDB | Swift**
