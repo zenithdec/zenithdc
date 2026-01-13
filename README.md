@@ -21,7 +21,7 @@
 <br/>
 
 ## 🚀 Sobre Mim
-Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos impactantes. Adoro aprender sobre novas tecnologias, especialmente na área do Desenvolvimento Web e Desenvolvimento em Games. Meu foco atual é me aprofundar em Java e Kotlin, além de explorar o mundo da Engenharia de Software.
+Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos impactantes. Adoro aprender sobre novas tecnologias, especialmente na área do Desenvolvimento Web e Desenvolvimento em Jogos. Meu foco atual é me aprofundar em Java e Kotlin, além de explorar o mundo da Engenharia de Software.
 
 ## ☕ Minhas habilidades
 
@@ -47,7 +47,7 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
 <br/>
 
 ## 🎯 Objetivos
-- 🧩 **Desenvolver Sistemas Backend complexos.**.
+- 🧩 **Desenvolver Sistemas Backend complexos**.
 - 🌐 Dominar o desenvolvimento web Full Stack.
 - 🤝 Contribuir para projetos Open Source.
 - 💼 Construir uma carreira sólida em Desenvolvimento de Software.
