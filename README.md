@@ -23,7 +23,7 @@
 ## 🚀 Sobre Mim
 Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e frameworks, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos impactantes. Adoro aprender sobre novas tecnologias, especialmente na área do Desenvolvimento Web e Desenvolvimento em Games. Meu foco atual é me aprofundar em Java e Kotlin, além de explorar o mundo da Engenharia de Software.
 
-## 🛠️ Tech Stack
+## ☕ Minhas habilidades
 
 ### Linguagens
 <div align="center">
@@ -33,7 +33,7 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 </div>
 
 ### Frameworks, Banco de Dados & Infraestrutura
@@ -41,6 +41,7 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
 </div>
 
 <br/>
