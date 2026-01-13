@@ -51,7 +51,7 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
 - 🌐 Dominar o desenvolvimento web Full Stack.
 - 🤝 Contribuir para projetos Open Source.
 - 💼 Construir uma carreira sólida em Desenvolvimento de Software.
-- 🚀 Dominar tecnologias modernas de DevOps & Cloud.
+- 🚀 Dominar tecnologias modernas de Desenvolvimento Web.
 
 ## 📫 Contrate-me
 <div align="center"> 
