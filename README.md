@@ -47,11 +47,11 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
 <br/>
 
 ## 🎯 Objetivos
-- 🧩 Desenvolver Plugins de Minecraft cada vez mais complexos.**.
+- 🧩 **Desenvolver Sistemas Backend complexos.**.
 - 🌐 Dominar o desenvolvimento web Full Stack.
 - 🤝 Contribuir para projetos Open Source.
 - 💼 Construir uma carreira sólida em Desenvolvimento de Software.
-- 🚀 Dominar tecnologias modernas de Desenvolvimento Web.
+- 🚀 Atuar com tecnologias modernas nas áreas de Desenvolvimento Web e de Jogos.
 
 ## 📫 Contrate-me
 <div align="center"> 
