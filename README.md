@@ -9,12 +9,12 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenithdec&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="Operações de Zenith" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=euzenithdev&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="Operações de Zenith" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zenithdec&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="Estatisticas" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenithdec&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Linguagens" />
+<img src="https://github-readme-stats.vercel.app/api?username=euzenithdev&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="Estatisticas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euzenithdev&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Linguagens" />
 
 </div>
 
@@ -55,10 +55,10 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
 
 ## 📫 Contrate-me
 <div align="center"> 
-  <a href="https://github.com/zenithdec">
+  <a href="https://github.com/euzenithdev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Selo Github"/>
   </a>
-  <a href="https://discord.com/users/zenithdec">
+  <a href="https://discord.com/users/euzenithdev">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Distintivo do Discord"/>
   </a>
 </div>
@@ -66,5 +66,5 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Com exp
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenithdec&label=Profile%20Views&color=0e75b6&style=flat" alt="zenithdec" />
+  <img src="https://komarev.com/ghpvc/?username=euzenithdev&label=Profile%20Views&color=0e75b6&style=flat" alt="zenithdec" />
 </div>
